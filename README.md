@@ -3,6 +3,10 @@
 ### Run
 
 ```shell
-npm spring-boot:run
+mvn install
+```
+
+```shell
+mvn spring-boot:run
 ```
 
